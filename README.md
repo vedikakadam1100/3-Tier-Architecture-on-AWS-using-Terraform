@@ -1,1 +1,0 @@
-# 3-Tier-Architecture-on-AWS-using-Terraform
